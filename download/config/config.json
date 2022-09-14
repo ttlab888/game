@@ -1,0 +1,243 @@
+{
+	"Config": {
+		"GameName": "",
+		"SvrState": true,
+		"PlatID": 0,
+		"ShowDebug": true,
+		"GameMode": 1,
+		"BaseGold": 6000,
+		"almsGoldCount": 300,
+		"almsLimit": 200,
+		"almsMaxCount": 2,
+		"ReservedGold": 8000,
+		"DrawCashUnit": 5000,
+		"ServerURL": ["http://cdn.ylbuyu.com"],
+		"UpdateDir": "download/lua/ind_versix",
+		"UpdateApkName": "download/apk/aaa.apk",
+		"LogonIP": ["dev.ylbuyu.com:7004"],
+		"DefaultIP": ["192.168.3.20"],
+		"KFUrl": "",
+		"IMSvrInfo": {
+			"msfsPrior": "http://192.168.3.20:8700/",
+			"wsIP": "192.168.3.20",
+			"wsport": "8088"
+		},
+		"CheckEmulator": false,
+		"MinVer": "1.0.0",
+		"ZipVer": "3.1.4",
+		"CurVer": "3.1.4",
+
+		"Review": false,
+		"ReviewVer": "1.0.0",
+
+		"Whatsapp": "6281336202723",
+		"Email": "bvodka239@gmail.com",
+		"InviteURL": "https://play.google.com/store/apps/details?id=com.ind.flyingdomino&referrer=",
+
+		"SharedURL": "https://play.google.com/store/apps/details?id=com.ind.flyingdomino&referrer=",
+		"SharedMsg": "flyingdomino",
+
+		"GuideGames": [6],
+		"ShowGameList": [2, 1, 6, 21, 22, 18, 17, 11],
+		"GameInfoList": [
+			{
+				"GameID": 1,
+				"GameName": "Fish",
+				"GamePrefix": "Fish",
+				"GameVer": "1.0.2",
+				"QuickEnter": false,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 2,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 3,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 2,
+				"GameName": "Fish",
+				"GamePrefix": "FishFast",
+				"GameVer": "1.0.1",
+				"QuickEnter": false,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 2,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 3,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 6,
+				"GameName": "Battle",
+				"GamePrefix": "DragTiger",
+				"GameVer": "1.0.4",
+				"QuickEnter": true,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 11,
+				"GameName": "Texas",
+				"GamePrefix": "Texasholdem",
+				"GameVer": "1.0.1",
+				"QuickEnter": false,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 2,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 3,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 4,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 17,
+				"GameName": "QiuQiu",
+				"GamePrefix": "QiuQiu",
+				"GameVer": "1.0.3",
+				"QuickEnter": false,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 2,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 3,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 4,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 18,
+				"GameName": "QQ Bandar",
+				"GamePrefix": "Bandar",
+				"GameVer": "1.0.1",
+				"QuickEnter": true,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 21,
+				"GameName": "Gaple",
+				"GamePrefix": "Gaple",
+				"GameVer": "1.0.4",
+				"QuickEnter": false,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 2,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 3,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					},
+					{
+						"RoomID": 4,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			},
+			{
+				"GameID": 22,
+				"GameName": "Lainnya",
+				"GamePrefix": "SlotOne",
+				"GameVer": "1.0.0",
+				"QuickEnter": true,
+				"GameRooms": [
+					{
+						"RoomID": 1,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0
+					}
+				]
+			}
+		]
+	}
+}
